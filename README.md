@@ -1,0 +1,1 @@
+## WhatsApp's redirect for LinkedIn's link
